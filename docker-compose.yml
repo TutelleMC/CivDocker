@@ -119,7 +119,7 @@ services:
       - "3000:3000"
     environment:
       CIV_INFLUX_HOST: http://influx:8086
-      CIV_INFLUX_ORG: CivMC
+      CIV_INFLUX_ORG: TutelleMC
       CIV_INFLUX_TOKEN: admintoken
     volumes:
       - ./grafana/provisioning:/etc/grafana/provisioning

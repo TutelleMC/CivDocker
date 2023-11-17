@@ -31,6 +31,6 @@ forge_support: true
 disabled_commands:
 servers:
   main:
-    motd: '§2Building with more than just blocks.§r'
+    motd: '§2Building with Tutelle. She is so cute I love her§r'
     address: "paper:25565"
     restricted: false

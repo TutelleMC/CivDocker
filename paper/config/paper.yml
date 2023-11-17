@@ -30,7 +30,7 @@ timings:
   - settings.velocity-support.secret
   history-interval: 300
   history-length: 3600
-  server-name: CivMC
+  server-name: TutelleMC
 config-version: 25
 settings:
   use-dimension-type-for-custom-spawners: false
